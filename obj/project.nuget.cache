@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tx7GfQLioZI8DfMYsybuPoK1mpHZaGFexheAIkrsL1fUShtfv5+YuXuSHEuBTR6dHd1tCxcJDEcApCj2y0gBRw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\andere\\APIM innovationday\\WeatherApi\\WeatherApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\woete\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0-preview.4.22251.1\\microsoft.aspnetcore.openapi.7.0.0-preview.4.22251.1.nupkg.sha512",
+    "C:\\Users\\woete\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\woete\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\woete\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\woete\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\woete\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\woete\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
